@@ -1,4 +1,4 @@
-# Paperville-Launcher-AutoUpdater
+# Paperville Launcher Releases
 
 
 <br>
