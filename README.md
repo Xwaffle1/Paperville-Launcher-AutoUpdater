@@ -14,8 +14,7 @@
 
 [![Build Status][github-actions-status]][github-actions-url]
 [![Github Tag][github-tag-image]][github-tag-url]
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)]([https://discord.gg/EuxhSfwEm2](https://discord.gg/EuxhSfwEm2))
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)]([https://www.virustotal.com/gui/file/074f477de50b5c957fd0a46ed508b9344378641d5660fd81a21107443f2d0440/detection](https://www.virustotal.com/gui/file/074f477de50b5c957fd0a46ed508b9344378641d5660fd81a21107443f2d0440/detection))  
+[![Discord][discord-image]][discord-url]
 </div>
 
 ## Community
@@ -37,3 +36,5 @@ Join our Discord: https://discord.gg/EuxhSfwEm2
 [github-actions-url]: https://github.com/Xwaffle1/Paperville-Launcher-AutoUpdater/actions
 [github-tag-image]: https://img.shields.io/github/tag/Xwaffle1/Paperville-Launcher-AutoUpdater.svg?label=version
 [github-tag-url]: https://github.com/Xwaffle1/Paperville-Launcher-AutoUpdater/releases/latest
+[discord-image]: https://badgen.net/badge/icon/discord?icon=discord&label
+[discord-url]: https://discord.gg/EuxhSfwEm2
